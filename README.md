@@ -19,11 +19,11 @@ I have a passion for learning and sharing my knowledge with others. I am a learn
 
 I am interested in and talking about Elixir, Phoenix, LiveView, JavaScript, and Software Engineering ♥️
 
-- 🔭 I’m currently working on: Elixir, Phoenix, LiveView, Tailwind, AlpineJS
+- 🔭 I’m currently working on Elixir, Phoenix, LiveView, Tailwind, AlpineJS
 - 🌱 I’m currently learning: PETAL Stack
-- 👯 I’m looking to collaborate on: Open source Elixir/Phoenix/LiveView projects
-- 🤔 I’m looking for help with: improving my understanding of distributed and fault tolerant systems
-- ⚡ Fun fact: A programmer with a mindset of traverler from 🇵🇰 living in 🇩🇪 and been to 🇶🇦 🇫🇮 🇴🇲 🇹🇷 🇳🇱
+- 👯 I’m looking to collaborate on Open source Elixir/Phoenix/LiveView projects
+- 🤔 I’m looking for help with improving my understanding of distributed and fault-tolerant systems
+- ⚡ Fun fact: A programmer with a mindset of traveler from 🇵🇰 living in 🇩🇪 and been to 🇶🇦 🇫🇮 🇴🇲 🇹🇷 🇳🇱
 
 ![](https://img.shields.io/badge/Language-Elixir-green) 
 ![](https://img.shields.io/badge/Stack-PETAL-blue)
