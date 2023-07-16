@@ -27,7 +27,7 @@ I am interested in and talking about Elixir, Phoenix, LiveView, JavaScript, and 
 
 ![](https://img.shields.io/badge/Language-Elixir-green) 
 ![](https://img.shields.io/badge/Stack-PETAL-blue)
-![Profile views](https://gpvc.arturio.dev/ahmadkhubaib)
+![](https://komarev.com/ghpvc/?username=ahmadkhubaib&style=plastic&color=green)
 
 ### Connect with me:
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/khubaib-ahmad/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:khubaibahmad1994@gmail.com)
