@@ -33,6 +33,6 @@ I am interested in and talking about Elixir, Phoenix, LiveView, JavaScript, and 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/khubaib-ahmad/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:khubaibahmad1994@gmail.com)
 
 
-|My github statistics|Streaks|My languages|
-|-|-|-|
-|[![Ari's github stats](https://github-readme-stats.vercel.app/api?username=ahmadkhubaib&show_icons=true&theme=dark&hide_title=true)](https://github.com/ahmadkhubaib)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=ahmadkhubaib&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhubaib&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/ahmadkhubaib)
+|My github statistics|My languages|
+|-|-|
+|[![Ari's github stats](https://github-readme-stats.vercel.app/api?username=ahmadkhubaib&show_icons=true&theme=dark&hide_title=true)](https://github.com/ahmadkhubaib)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhubaib&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/ahmadkhubaib)
