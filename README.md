@@ -39,8 +39,7 @@ I am interested in and talking about Elixir, Phoenix, LiveView, C++ 11, C++ 14, 
 ![](https://komarev.com/ghpvc/?username=ahmadkhubaib&style=flat&color=8A2BE2)
 
 ### Connect with me:
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/khubaib-ahmad/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:khubaibahmad1994@gmail.com)
-
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/khubaib-ahmad/)
 | stats | Github streak | languages |
 |     :---:      |     :---:      |     :---:      |
 |[![ahmadkhubaib's Stats](https://github-readme-stats.vercel.app/api?username=ahmadkhubaib&theme=vue&show_icons=true&hide_border=false&count_private=true&rank_icon=github)](https://github.com/ahmadkhubaib)|[![ahmadkhubaib's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmadkhubaib&theme=vue&hide_border=false)](https://github.com/ahmadkhubaib)|[![ahmadkhubaib's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhubaib&theme=vue&show_icons=true&hide_border=false&langs_count=8&layout=donut&hide_title=true&hide=css,html,powershell,scss,dockerfile,python)](https://github.com/ahmadkhubaib)|
